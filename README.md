@@ -10,7 +10,7 @@ Blockchain developer building payments and games on **Celo** and **Stacks**.
 | [Satsend](https://github.com/DevVichy/Satsend) | On-chain sBTC invoice protocol: create a payment request, share a link, get paid with Bitcoin-level finality. | Clarity, TypeScript, Stacks |
 | [PayLink](https://github.com/DevVichy/PayLink) | A shareable Open Payments wallet address for every Nigerian university student. | Open Payments, Rafiki, Interledger |
 
-Also: [Valor](https://github.com/DevVichy/Valor), my fork of a Celo + GoodDollar fighting game that I worked from.
+Also: [Valor](https://github.com/DevVichy/Valor), a fork of a Celo + GoodDollar fighting game.
 
 ## Tools I use
 
